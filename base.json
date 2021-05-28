@@ -1,19 +1,37 @@
 {
   "bases": {
-    "home": [
-        {
-          "name":"Дом 1",
-          "short_description":"Это будет коротким описанием",
-          "description":"Не буду вдаваться в подробности",
-          "price":"1500",
-          "rate":"4.5",
-          "main_image":"images/<название_изображения>.<формат_изображения>",
-          "screenshots":["screenshots/<название_изображения>.<формат_изображения>", "screenshots/<название_изображения>.<формат_изображения>"],
-          "phone":"88005553535",
-          "address":"ул. Адмиралтейская 5",
-          "district":"Приволжский"
-        }
-    ],
+    "home": {
+        "aya": [
+          {
+            "name":"Дом 1",
+            "short_description":"Это будет коротким описанием",
+            "description":"Не буду вдаваться в подробности",
+            "price":"1500",
+            "rate":"4.5",
+            "main_image":"images/<название_изображения>.<формат_изображения>",
+            "screenshots":["screenshots/<название_изображения>.<формат_изображения>", "screenshots/<название_изображения>.<формат_изображения>"],
+            "phone":"88005553535",
+            "address":"ул. Адмиралтейская 5"
+          }
+        ],
+      "katyn": [],
+      "sougoza": [],
+      "turbase_unost": [],
+      "nijnekayancha": [],
+      "manjerok": [],
+      "ust_muni": [],
+      "ust_sema": [],
+      "cheposh": [],
+      "uzneya": [],
+      "anons": [],
+      "elecmonar": [],
+      "chemal": [],
+      "cherga": [],
+      "miuta": [],
+      "ongudai": [],
+      "aktash": [],
+      "kurgai": []
+    },
     "relax": {
       "eats": [
         {
