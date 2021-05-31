@@ -19,7 +19,7 @@
           {
             "name":"Дом у реки",
             "short_description":" всё занято",
-            "description"мест нет"
+            "description":"мест нет"
             "price":"200р/сут",
             "rate":20,
             "main_image":"images/<02>.<png>",
