@@ -51,7 +51,7 @@
             "address":"пос.Катунь ул, Кирова 63"
            }
          ],
-      "sougoza": [],
+      "souzga": [],
       "turbase_unost": [],
       "nijnekayancha": [
         {
@@ -84,7 +84,7 @@
       "ust_sema": [],
       "cheposh": [],
       "uzneya": [],
-      "anons": [
+      "anos": [
           {
             "id": 3,
             "vk": "",
@@ -126,7 +126,8 @@
       "miuta": [],
       "ongudai": [],
       "aktash": [],
-      "kurgai": []
+      "kurgai": [],
+      "barangol": []
     },
     "relax": {
       "eats": {
@@ -147,7 +148,7 @@
           }
         ],
         "katyn": [],
-        "sougoza": [],
+        "souzga": [],
         "turbase_unost": [],
         "nijnekayancha": [],
         "manjerok": [],
@@ -155,14 +156,15 @@
         "ust_sema": [],
         "cheposh": [],
         "uzneya": [],
-        "anons": [],
+        "anos": [],
         "elecmonar": [],
         "chemal": [],
         "cherga": [],
         "miuta": [],
         "ongudai": [],
         "aktash": [],
-        "kurgai": []
+        "kurgai": [],
+        "barangol": []
       },
       "places": {
         "aya": [
@@ -184,7 +186,7 @@
           }
         ],
         "katyn": [],
-        "sougoza": [],
+        "souzga": [],
         "turbase_unost": [],
         "nijnekayancha": [],
         "manjerok": [
@@ -209,7 +211,7 @@
         "ust_sema": [],
         "cheposh": [],
         "uzneya": [],
-        "anons": [
+        "anos": [
           {
             "id": 3,
             "vk": "",
@@ -249,7 +251,8 @@
         "miuta": [],
         "ongudai": [],
         "aktash": [],
-        "kurgai": []
+        "kurgai": [],
+        "barangol": []
       }
     }
   }
