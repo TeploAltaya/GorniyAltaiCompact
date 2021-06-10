@@ -96,7 +96,22 @@
     },
     "relax": {
       "eats": {
-        "aya": [],
+        "aya": [
+          {
+            "id": 2,
+            "vk": "",
+            "instagram": "",
+            "youtube": "",
+            "name": "Соль-Перец",
+            "short_description": "#Кафе",
+            "description": "",
+            "rate": 40,
+            "main_image": "images/02k.jpg",
+            "screenshots": [],
+            "phone": "89039193900",
+            "address": "село Ая ул. Катунская 27б"
+          }
+],
         "katyn": [],
         "souzga": [
            {
