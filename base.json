@@ -180,7 +180,26 @@
             "tag":"Достопримечательность"
           }
         ],
-        "katyn": [],
+        "katyn": [
+           {
+            "id": 2,
+            "vk": "",
+            "instagram":"https://instagram.com/altai_riviera?utm_medium=copy_link",
+            "youtube": "",
+            "name":"Алтайская Ривьера",
+            "short_description":"Самый большой бассейный комплекс в России!",
+            "description":"Площадь бассейнов 3400 м2
+Система постоянной очистки воды
+Глубина бассейнов от 0,3 до 1,4 м",
+            "rate":50,
+            "price":"0",
+            "main_image":"images/02d.jpg",
+            "screenshots": [],
+            "phone":"89039195444",
+            "address":"пос. Катунь, ул. Нагорная, д. 1",
+            "tag":"Достопримечательность"
+          }
+],
         "souzga": [],
         "turbase_unost": [],
         "nijnekayancha": [],
