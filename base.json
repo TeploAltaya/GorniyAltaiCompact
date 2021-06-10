@@ -2,23 +2,7 @@
   "bases": {
     "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
     "home": {
-        "aya": [
-          {
-            "id": 0,
-            "vk": "",
-            "instagram": "",
-            "youtube": "",
-            "name":"База отдыха три медведя",
-            "short_description":"Это будет коротким описанием",
-            "description":"База отдыха три медведя! Закрыта идите лесом!",
-            "price":"1900 руб/cутки",
-            "rate":10,
-            "main_image":"images/01a.jpg",
-            "screenshots":["screenshots/<название_изображения>.<формат_изображения>", "screenshots/<название_изображения>.<формат_изображения>"],
-            "phone":"88005553535",
-            "address":"ул. Таяжная 56, подъезд 3, кв. 46" 
-          }
-        ],
+        "aya": [],
       "katyn": [
           {
             "id": 1,
