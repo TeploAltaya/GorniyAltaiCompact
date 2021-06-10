@@ -2,7 +2,7 @@
   "bases": {
     "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
     "home": {
-        "aya":"[],
+        "aya": [],
       "katyn": [
           {
             "id": 1,
