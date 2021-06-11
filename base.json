@@ -3,40 +3,7 @@
     "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
     "home": {
         "aya": [],
-      "katyn": [
-          {
-            "id": 1,
-            "vk": "",
-            "instagram": "",
-            "youtube": "",
-            "web": "",
-            "name":"Дом у реки",
-            "short_description":" всё занято",
-            "description":"мест нет",
-            "price":"200р/сут",
-            "rate":20,
-            "main_image":"images/<02>.<png>",
-            "screenshots":["screenshots/122a.jpg"],
-            "phone":"88005553535",
-            "address":"ул. Таяжная 56, подъезд 3, кв. 46"
-           },
-          {
-            "id": 2,
-            "vk": "",
-            "instagram": "",
-            "youtube": "",
-            "web": "",
-            "name":"Уютный домик",  
-            "short_description":"маленький домик для семьи", 
-            "description":"Сдам посуточно уютный небольшой домик для семьи. В доме имеется все необходимое для комфортного проживания",
-            "price":"2000р/сут",
-            "rate":50,
-            "main_image":"images/023.png",
-            "screenshots":["screenshots/345.png"],
-            "phone":"88005553535",
-            "address":"пос.Катунь ул, Кирова 63"
-           }
-         ],
+      "katyn": [],
       "souzga": [],
       "turbase_unost": [],
       "nijnekayancha": [
