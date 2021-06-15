@@ -2,7 +2,28 @@
   "bases": {
     "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
     "home": {
-        "aya": [],
+        "aya": [
+{
+            "id": 8,
+            "vk": "",
+            "instagram": "https://instagram.com/altay_aya_dom?utm_medium=copy_link",
+            "youtube": "",
+            "web": "",
+            "name":"Уютные домики",
+            "short_description":"",
+            "description":"Уютные благоустроенные летние домики вместимостью 4 человека каждый.
+Санузел с душем - полотенца и постельное белье включено, кухонная зона со всем необходимым для приготовления еды, холодильник, телевизор.
+Территория у каждого домика индивидуальная, с беседкой и мангалом. Также имеется общий бассейн - бесплатно и баня - 700р час.
+До Катуни 2 минуты пешком.
+До озера Ая 5 километров.",
+            "price":"2500р/сут",
+            "rate":50,
+            "main_image":"images/03a.jpg",
+            "screenshots":["screenshots/05d.jpg", "screenshots/06d.jpg", "screenshots/07d.jpg", "screenshots/08d.jpg", "screenshots/09d.jpg", "screenshots/10d.jpg", "screenshots/11d.jpg", "screenshots/12d.jpg", "screenshots/13d.jpg", "screenshots/14d.jpg", "screenshots/16d.jpg", "screenshots/17d.jpg", "screenshots/18d.jpg", "screenshots/19d.jpg", "screenshots/20d.jpg", "screenshots/23d.jpg", "screenshots/24d.jpg", "screenshots/25d.jpg"],
+            "phone":"+7 961 986-61-22",
+            "address":"С. Ая, ул Советская 27"
+           },
+],
       "katyn": [],
       "souzga": [],
       "turbase_unost": [],
