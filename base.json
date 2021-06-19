@@ -125,7 +125,28 @@
             "address":"Усть- Сема, ул. Зелёная, д. 9"
            },
 ],
-      "cheposh": [],
+      "cheposh": [
+{
+            "id": 12,
+            "vk": "",
+            "instagram": "https://instagram.com/skifskiy_dvor_altay?utm_medium=copy_link",
+            "youtube": "",
+            "web": "https://skif04.ru/",
+            "name":"Скифсий двор",
+            "short_description":"",
+            "description":"Находится в  Чемальском районе Республики Алтай.
+Вас ждет современный дизайн гостевых домиков турбазы выполненный в ручную из кедра.
+Предлагаем размещение в 4 комфортных домиках.
+База одновременно может принимать до 14 человек!
+На территории установлена полезная кедровая баня на 4-х человек с раздельной парилкой, и комнатой отдыха, бассейн.",
+           "price":"",
+            "rate":48,
+            "main_image":"images/12a.jpg",
+            "screenshots":["screenshots/79d.jpg", "screenshots/80d.jpg", "screenshots/81d.jpg", "screenshots/82d.jpg", "screenshots/83d.jpg", "screenshots/84d.jpg","screenshots/85d.jpg", "screenshots/86d.jpg", "screenshots/87d.jpg", "screenshots/88d.jpg", "screenshots/89d.jpg", "screenshots/90d.jpg", "screenshots/91d.jpg", "screenshots/92d.jpg"],
+            "phone":"9682226565",
+            "address":"Республика Алтай, Чемальский район"
+           },
+],
       "uzneya": [],
       "anos": [],
       "elecmonar": [],
