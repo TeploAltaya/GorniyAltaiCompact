@@ -77,24 +77,6 @@
         "address": "Тестовый адрес (Прокаты)"
       }
     ],
-    "other": [
-      {
-        "id": 5,
-        "vk": "",
-        "instagram": "",
-        "youtube": "",
-        "web": "",
-        "name": "Тестовая база отдыха (Разное)",
-        "short_description": "",
-        "description": "",
-        "price": "2500р/сут",
-        "main_image": "relax_images/07a.jpg",
-        "screenshots": [
-          "relax_screenshots/58d.jpg"
-        ],
-        "phone": "88005553535",
-        "address": "Тестовый адрес (Разное)"
-      }
-    ]
+    "other": []
   }
 }
