@@ -1,0 +1,39 @@
+{
+  "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
+  "sights": [
+    {
+      "id": 1,
+      "vk": "",
+      "instagram": "",
+      "youtube": "",
+      "web": "",
+      "name": "Тур 1",
+      "short_description": "Описание для теста достопримечательности",
+      "description": "",
+      "price": "Бесплатно",
+      "main_image": "sight_images/<название>.<png/jpg/jpeg>",
+      "screenshots": [
+        "sight_screenshots/<название>.<png/jpg/jpeg>"
+      ],
+      "phone": "88005553535",
+      "address": "Допустим что знаем адрес"
+    },
+    {
+      "id": 2,
+      "vk": "",
+      "instagram": "",
+      "youtube": "",
+      "web": "",
+      "name": "Тур 2",
+      "short_description": "Описание для теста достопримечательности 2",
+      "description": "",
+      "price": "Бесплатно",
+      "main_image": "sight_images/08a.jpg",
+      "screenshots": [
+        "sight_screenshots/<название>.<png/jpg/jpeg>"
+      ],
+      "phone": "88005553535",
+      "address": "Допустим что знаем адрес 2"
+    }
+  ]
+}
