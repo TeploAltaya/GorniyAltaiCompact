@@ -1,0 +1,22 @@
+{
+  "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
+  "tours": [
+    {
+      "id": 1,
+      "vk": "",
+      "instagram": "",
+      "youtube": "",
+      "web": "",
+      "name": "Тур 1",
+      "short_description": "Описание для тестового тура",
+      "description": "",
+      "price": "3250р за 1 человека",
+      "main_image": "tour_images/<название>.<png/jpg/jpeg>",
+      "screenshots": [
+        "tour_screenshots/<название>.<png/jpg/jpeg>"
+      ],
+      "phone": "88005553535",
+      "address": "Допустим что знаем адрес"
+    }
+  ]
+}
