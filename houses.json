@@ -3,7 +3,7 @@
     "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
     "home": {
         "aya": [
-{
+        {
             "id": 8,
             "vk": "",
             "instagram": "https://instagram.com/altay_aya_dom?utm_medium=copy_link",
@@ -18,12 +18,12 @@
 До озера Ая 5 километров.",
             "price":"2500р/сут",
             "rate":48,
-            "main_image":"images/07a.jpg",
-            "screenshots":["screenshots/58d.jpg", "screenshots/59d.jpg", "screenshots/60d.jpg", "screenshots/61d.jpg", "screenshots/62d.jpg", "screenshots/63d.jpg"],
+            "main_image":"house_images/07a.jpg",
+            "screenshots":["house_screenshots/58d.jpg", "house_screenshots/59d.jpg", "house_screenshots/60d.jpg", "house_screenshots/61d.jpg", "house_screenshots/62d.jpg", "house_screenshots/63d.jpg"],
             "phone":"+7 961 986-61-22",
             "address":"С. Ая, ул Советская 27"
            },
-],
+      ],
       "katyn": [
            {
             "id": 11,
@@ -44,8 +44,8 @@
 Проживание – ✅от 500₽/сутки с 1 человека.",
             "price":"500р/чел",
             "rate":48,
-            "main_image":"images/10a.jpg",
-            "screenshots":["screenshots/75d.jpg", "screenshots/76d.jpg", "screenshots/77d.jpg", "screenshots/78d.jpg"],
+            "main_image":"house_images/10a.jpg",
+            "screenshots":["house_screenshots/75d.jpg", "house_screenshots/76d.jpg", "house_screenshots/77d.jpg", "house_screenshots/78d.jpg"],
             "phone":"+7 983 329-23-72",
             "address":"посёлок Катунь ул.Катунская 15б"
            }
@@ -75,8 +75,8 @@
           Дополнительная информация по телефону, переписка в WhаtsАрр Стоимость проживания в летнее время уточняйте!",
           "price":"6000р/сут",
           "rate":50,
-          "main_image":"images/02a.jpg",
-          "screenshots":["screenshots/01s.jpg","screenshots/02s.jpg","screenshots/03s.jpg","screenshots/04s.jpg"],
+          "main_image":"house_images/02a.jpg",
+          "screenshots":["house_screenshots/01s.jpg","house_screenshots/02s.jpg","house_screenshots/03s.jpg","house_screenshots/04s.jpg"],
           "phone":"+79631982169",
           "address":"Алтайский край, Алтайский район, село Нижнекаянча, ул. Школьная 1А"
         },
@@ -92,8 +92,8 @@
  Как добраться  через новый мост в селе Соузга, в сторону казино Алтай Пэлас доезжаете до магазина Машенька поворачиваете на право и вы уже добрались. Ждем Вас. До встречи.",
             "price":"3500р/сут",
             "rate":50,
-            "main_image":"images/06a.jpg",
-            "screenshots":["screenshots/46d.jpg", "screenshots/48d.jpg", "screenshots/50d.jpg", "screenshots/51d.jpg", "screenshots/52d.jpg", "screenshots/53d.jpg", "screenshots/54d.jpg", "screenshots/55d.jpg", "screenshots/56d.jpg", "screenshots/57d.jpg"],
+            "main_image":"house_images/06a.jpg",
+            "screenshots":["house_screenshots/46d.jpg", "house_screenshots/48d.jpg", "house_screenshots/50d.jpg", "house_screenshots/51d.jpg", "house_screenshots/52d.jpg", "house_screenshots/53d.jpg", "house_screenshots/54d.jpg", "house_screenshots/55d.jpg", "house_screenshots/56d.jpg", "house_screenshots/57d.jpg"],
             "phone":"+7 960 968-94-44",
             "address":"Алтайский край Алтайский район село Нижнекаянча Усть-Уба 5"
              }
@@ -121,8 +121,8 @@
 Есть парковочные места для авто.",
             "price":"800р-1300р/чел.",
             "rate":48,
-            "main_image":"images/08a.jpg",
-            "screenshots":["screenshots/64d.jpg", "screenshots/65d.jpg", "screenshots/66d.jpg", "screenshots/67d.jpg", "screenshots/68d.jpg", "screenshots/69d.jpg", "screenshots/70d.jpg", "screenshots/72d.jpg", "screenshots/73d.jpg", "screenshots/74d.jpg"],
+            "main_image":"house_images/08a.jpg",
+            "screenshots":["house_screenshots/64d.jpg", "house_screenshots/65d.jpg", "house_screenshots/66d.jpg", "house_screenshots/67d.jpg", "house_screenshots/68d.jpg", "house_screenshots/69d.jpg", "house_screenshots/70d.jpg", "house_screenshots/72d.jpg", "house_screenshots/73d.jpg", "house_screenshots/74d.jpg"],
             "phone":"+79236610451",
             "address":"Усть- Сема, ул. Зелёная, д. 9"
            },
@@ -151,8 +151,8 @@
 Открытый бассейн для взрослых и детей с площадкой для отдыха, на которой расположены шезлонги, зонтики — бесплатно",
            "price":"2500р/сут.",
             "rate":50,
-            "main_image":"images/11a.jpg",
-            "screenshots":["screenshots/79d.jpg", "screenshots/80d.jpg", "screenshots/81d.jpg", "screenshots/82d.jpg", "screenshots/83d.jpg", "screenshots/84d.jpg","screenshots/85d.jpg", "screenshots/86d.jpg", "screenshots/87d.jpg", "screenshots/88d.jpg", "screenshots/89d.jpg", "screenshots/90d.jpg", "screenshots/91d.jpg", "screenshots/92d.jpg"],
+            "main_image":"house_images/11a.jpg",
+            "screenshots":["house_screenshots/79d.jpg", "house_screenshots/80d.jpg", "house_screenshots/81d.jpg", "house_screenshots/82d.jpg", "house_screenshots/83d.jpg", "house_screenshots/84d.jpg","house_screenshots/85d.jpg", "house_screenshots/86d.jpg", "house_screenshots/87d.jpg", "house_screenshots/88d.jpg", "house_screenshots/89d.jpg", "house_screenshots/90d.jpg", "house_screenshots/91d.jpg", "house_screenshots/92d.jpg"],
             "phone":"9682226565",
             "address":"Республика Алтай, Чемальский район, село Чепош, Чемальский тракт 11"
            },
@@ -175,8 +175,8 @@
 Курить в доме нельзя!!! Доставка Аэропорт Горноалтайск, возможна. На номере есть Вацап. Пишите. Звоните",
             "price":"10000р/сут", 
             "rate":48,
-            "main_image":"images/05a.jpg",
-            "screenshots":["screenshots/42d.jpg", "screenshots/43d.jpg", "screenshots/44d.jpg", "screenshots/45d.jpg"],
+            "main_image":"house_images/05a.jpg",
+            "screenshots":["house_screenshots/42d.jpg", "house_screenshots/43d.jpg", "house_screenshots/44d.jpg", "house_screenshots/45d.jpg"],
             "phone":"+7 960 950-44-53",
             "address":"Чемал ,Дворникова 47"
            },
@@ -191,8 +191,8 @@
             "description":"ПРЕДЛАГАЮ посуточно, ДЛЯ ОТДЫХА, КОМФОРТНЫЙ БЛАГОУСТРОЕННЫЙ ОСОБНЯК  СО ВСЕМИ УДОБСТВАМИ, В ЦЕНТРЕ СЕЛА У ГОРЫ И  ОТ ВСЕХ МАГАЗИНОВ В 5 МИНУТАХ.  ПЛОЩАДЬ 60 КВ.М., ТРИ ИЗОЛИРОВАННЫХ СПАЛЬНИ , КУХНЯ С БОЛЬШИМ ХОЛОДИЛЬНИКОМ, ВАРОЧНОЙ ПАНЕЛЬЮ, МИКРОВОЛНОВКОЙ, ЧАЙНИКОМ, ПОСУДОЙ, ДИВАНОМ, КАМИНОМ, ЕСТЬ  ТВ И ИНТЕРНЕТ ВАЙ ФАЙ,  САНУЗЕЛ С ГОРЯЧЕЙ ВОДОЙ , ДУШЕМ, БИДЕ, УНИТАЗОМ, РАКОВИНОЙ, ЗЕРКАЛОМ, ФЕНОМ, СТИРАЛЬНОЙ МАШИНОЙ АВТОМАТ, ПЫЛЕСОСОМ, ПИСЬМЕННЫМ СТОЛОМ, УТЮГОМ, ДОСКОЙ, ПОСТЕЛЬНЫМ БЕЛЬЕМ. ЕСТЬ БОЛЬШАЯ ВЕРАНДА С ДИВАНОМ И СТОЛИКОМ,  МАНГАЛ, РЕШЕТКИ И ШАМПУРА. СПАЛЬНЫХ МЕСТ 6 — ТРИ ДВУХСПАЛЬНЫХ КРОВАТИ, + 2 места ДИВАН В КОМНАТЕ, И  + 2 МЕСТА - ДИВАН В КУХНЕ, итого 10 мест!!!! ЕСТЬ ПАРКОВКА НА 4 МАШИНЫ Бассейны, парковка, мангал, решетки, шампура, детская площадка, бельё постельное, - входит в стоимость аренды дома! Заезд с 14.00, в любое время, выезд в 11 утра.",
             "price":"8000р/сут",
             "rate":50,
-            "main_image":"images/03a.jpg",
-            "screenshots":["screenshots/05d.jpg", "screenshots/06d.jpg", "screenshots/07d.jpg", "screenshots/08d.jpg", "screenshots/09d.jpg", "screenshots/10d.jpg", "screenshots/11d.jpg", "screenshots/12d.jpg", "screenshots/13d.jpg", "screenshots/14d.jpg", "screenshots/16d.jpg", "screenshots/17d.jpg", "screenshots/18d.jpg", "screenshots/19d.jpg", "screenshots/20d.jpg", "screenshots/23d.jpg", "screenshots/24d.jpg", "screenshots/25d.jpg"],
+            "main_image":"house_images/03a.jpg",
+            "screenshots":["house_screenshots/05d.jpg", "house_screenshots/06d.jpg", "house_screenshots/07d.jpg", "house_screenshots/08d.jpg", "house_screenshots/09d.jpg", "house_screenshots/10d.jpg", "house_screenshots/11d.jpg", "house_screenshots/12d.jpg", "house_screenshots/13d.jpg", "house_screenshots/14d.jpg", "house_screenshots/16d.jpg", "house_screenshots/17d.jpg", "house_screenshots/18d.jpg", "house_screenshots/19d.jpg", "house_screenshots/20d.jpg", "house_screenshots/23d.jpg", "house_screenshots/24d.jpg", "house_screenshots/25d.jpg"],
             "phone":"89609670177",
             "address":"Чемал ул. Лесная 14"
            },
@@ -222,8 +222,8 @@
 Также в зависимости когда и на сколько дней хотите могут быть скидки или наоборот дороже.",
             "price":"2000р/сут",
             "rate":48,
-            "main_image":"images/09a.jpg",
-            "screenshots":["screenshots/d74.jpg", "screenshots/d75.jpg", "screenshots/d76.jpg", "screenshots/d77.jpg", "screenshots/d78.jpg", "screenshots/d79.jpg", "screenshots/d80.jpg", "screenshots/d81.jpg", "screenshots/d82.jpg", "screenshots/d83.jpg", "screenshots/d84.jpg", "screenshots/d85.jpg", "screenshots/d86.jpg", "screenshots/d87.jpg", "screenshots/d88.jpg", "screenshots/d89.jpg", "screenshots/d90.jpg", "screenshots/d91.jpg", "screenshots/d92.jpg", "screenshots/d93.jpg", "screenshots/d94.jpg", "screenshots/d95.jpg", "screenshots/d96.jpg", "screenshots/d97.jpg", "screenshots/d98.jpg", "screenshots/d99.jpg", "screenshots/d100.jpg", "screenshots/d101.jpg", "screenshots/d102.jpg", "screenshots/d103.jpg", "screenshots/d104.jpg", "screenshots/d105.jpg", "screenshots/d106.jpg", "screenshots/d107.jpg", "screenshots/d108.jpg", "screenshots/d109.jpg", "screenshots/d110.jpg", "screenshots/d111.jpg", "screenshots/d112.jpg", "screenshots/d113.jpg", "screenshots/d114.jpg", "screenshots/d115.jpg"],
+            "main_image":"house_images/09a.jpg",
+            "screenshots":["house_screenshots/d74.jpg", "house_screenshots/d75.jpg", "house_screenshots/d76.jpg", "house_screenshots/d77.jpg", "house_screenshots/d78.jpg", "house_screenshots/d79.jpg", "house_screenshots/d80.jpg", "house_screenshots/d81.jpg", "house_screenshots/d82.jpg", "house_screenshots/d83.jpg", "house_screenshots/d84.jpg", "house_screenshots/d85.jpg", "house_screenshots/d86.jpg", "house_screenshots/d87.jpg", "house_screenshots/d88.jpg", "house_screenshots/d89.jpg", "house_screenshots/d90.jpg", "house_screenshots/d91.jpg", "house_screenshots/d92.jpg", "house_screenshots/d93.jpg", "house_screenshots/d94.jpg", "house_screenshots/d95.jpg", "house_screenshots/d96.jpg", "house_screenshots/d97.jpg", "house_screenshots/d98.jpg", "house_screenshots/d99.jpg", "house_screenshots/d100.jpg", "house_screenshots/d101.jpg", "house_screenshots/d102.jpg", "house_screenshots/d103.jpg", "house_screenshots/d104.jpg", "house_screenshots/d105.jpg", "house_screenshots/d106.jpg", "house_screenshots/d107.jpg", "house_screenshots/d108.jpg", "house_screenshots/d109.jpg", "house_screenshots/d110.jpg", "house_screenshots/d111.jpg", "house_screenshots/d112.jpg", "house_screenshots/d113.jpg", "house_screenshots/d114.jpg", "house_screenshots/d115.jpg"],
             "phone":" +89236624020 ",
             "address":"БАРАНГОЛ УЛ.ЧУЙСКАЯ 3А"
            },
@@ -241,123 +241,11 @@
  Двухкомнатный 36 кв, есть тоже все необходимое для комфортного отдыха 3000  сутки. Беседка, мангал входят в стоимость.",
             "price":"1500р/сут",
             "rate":50,
-            "main_image":"images/04a.jpg",
-            "screenshots":["screenshots/27d.jpg", "screenshots/28d.jpg", "screenshots/29d.jpg", "screenshots/30d.jpg", "screenshots/31d.jpg", "screenshots/32d.jpg", "screenshots/33d.jpg", "screenshots/34d.jpg", "screenshots/35d.jpg", "screenshots/38d.jpg", "screenshots/39d.jpg", "screenshots/40d.jpg", "screenshots/41d.jpg"],
+            "main_image":"house_images/04a.jpg",
+            "screenshots":["house_screenshots/27d.jpg", "house_screenshots/28d.jpg", "house_screenshots/29d.jpg", "house_screenshots/30d.jpg", "house_screenshots/31d.jpg", "house_screenshots/32d.jpg", "house_screenshots/33d.jpg", "house_screenshots/34d.jpg", "house_screenshots/35d.jpg", "house_screenshots/38d.jpg", "house_screenshots/39d.jpg", "house_screenshots/40d.jpg", "house_screenshots/41d.jpg"],
             "phone":"89236643236",
             "address":"П. Дубровка ул. Сафронова 79 А."
              }
             ]
-    },
-    "relax": {
-      "eats": {
-        "aya": [
-          {
-            "id": 2,
-            "vk": "",
-            "instagram": "",
-            "youtube": "",
-            "web": "",
-            "name": "Соль-Перец",
-            "short_description": "#Кафе",
-            "description": "",
-            "rate": 40,
-            "main_image": "images/02k.jpg",
-            "screenshots": [],
-            "phone": "89039193900",
-            "address": "село Ая ул. Катунская 27б"
-          }
-],
-        "katyn": [],
-        "souzga": [],
-        "turbase_unost": [],
-        "nijnekayancha": [],
-        "manjerok": [],
-        "ust_muni": [],
-        "ust_sema": [],
-        "cheposh": [],
-        "uzneya": [],
-        "anos": [],
-        "elecmonar": [],
-        "chemal": [],
-        "cherga": [],
-        "miuta": [],
-        "ongudai": [],
-        "aktash": [],
-        "kurgai": [],
-        "barangol": [],
-        "dubrovka": []
-      },
-      "places": {
-        "aya": [
-          {
-            "id": 1,
-            "vk": "",
-            "instagram":"https://instagram.com/ayahotel?utm_medium=copy_link",
-            "youtube": "",
-            "web": "http://ayahotel.ru/",
-            "name":"Парк-отель Ая",
-            "short_description":"Парк-отель Ая",
-            "description":" Парк-отель «Ая» - это более 12 гектаров изумительной природы, свежего воздуха и завораживающих видов.
-
-Раскинувшись в заповедной зоне на берегу горного озера Ая, парк-отель объединил на своей территории два современных круглогодичных отельных комплекса, общей вместимостью 270 человек, а также целый квартал коттеджей, бунгало, вилл и шале, работающих в летний период.
-
-В парке-отеле «Ая» вы сможете выбрать для себя комфортный вариант проживания: от уютного номера эконом-класса до двухуровневых люкс-апартаментов. 
-Отель идеально подходит для проведения семинаров и конференций, свадебных церемоний и банкетов.
-Имеется большая охраняемая парковка, работает wi-fi.
-
-В летний период на территории парка-отеля ежедневно принимает гостей крупнейший в России пляжный комплекс «АлтАйская Ривьера» и парк аттракционов. 
-
-Круглогодично работает современный SPA-комплекс с крытым бассейном с морской водой, сауной, хамамом, соляной, русской баней, массажем, уникальными beauty-процедурами. 
-
-Парк-отель-Ая находится в 20 минутах езды от аэропорта Горно-Алтайска по адресу: пос. Катунь, ул. Нагорная, 1",
-            "rate":50,
-            "price":"0",
-            "main_image":"images/01d.jpg",
-            "screenshots": [],
-            "phone":"89039195444",
-            "address":"пос. Катунь, ул. Нагорная, д. 1",
-            "tag":"Достопримечательность"
-          },
-         {
-            "id": 2,
-            "vk": "",
-            "instagram":"https://instagram.com/altai_riviera?utm_medium=copy_link",
-            "youtube": "",
-            "web": "",
-            "name":"Алтайская Ривьера",
-            "short_description":"Самый большой бассейный комплекс в России!",
-            "description":"Площадь бассейнов 3400 м2
-Система постоянной очистки воды
-Глубина бассейнов от 0,3 до 1,4 м",
-            "rate":50,
-            "price":"0",
-            "main_image":"images/02d.jpg",
-            "screenshots": [],
-            "phone":"89039195444",
-            "address":"пос. Катунь, ул. Нагорная, д. 1",
-            "tag":"Достопримечательность"
-          }
-        ],
-        "katyn": [],
-        "souzga": [],
-        "turbase_unost": [],
-        "nijnekayancha": [],
-        "manjerok": [],
-        "ust_muni": [],
-        "ust_sema": [],
-        "cheposh": [],
-        "uzneya": [],
-        "anos": [],
-        "elecmonar": [],
-        "chemal": [],
-        "cherga": [],
-        "miuta": [],
-        "ongudai": [],
-        "aktash": [],
-        "kurgai": [],
-        "barangol": [],
-        "dubrovka": []
-      }
     }
-  }
 }
