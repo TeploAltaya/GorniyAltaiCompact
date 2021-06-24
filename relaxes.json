@@ -1,0 +1,100 @@
+{
+  "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
+  "homes": {
+    "excursia": [
+      {
+        "id": 1,
+        "vk": "",
+        "instagram": "",
+        "youtube": "",
+        "web": "",
+        "name": "Тестовая база отдыха (Экскурсия)",
+        "short_description": "",
+        "description": "",
+        "price": "2500р/сут",
+        "main_image": "relax_images/07a.jpg",
+        "screenshots": [
+          "relax_screenshots/58d.jpg"
+        ],
+        "phone": "88005553535",
+        "address": "Тестовый адрес (Экскурсия)"
+      }
+    ],
+    "splavi": [
+      {
+        "id": 2,
+        "vk": "",
+        "instagram": "",
+        "youtube": "",
+        "web": "",
+        "name": "Тестовая база отдыха (Сплавы)",
+        "short_description": "",
+        "description": "",
+        "price": "2500р/сут",
+        "main_image": "relax_images/07a.jpg",
+        "screenshots": [
+          "relax_screenshots/58d.jpg"
+        ],
+        "phone": "88005553535",
+        "address": "Тестовый адрес (Сплавы)"
+      }
+    ],
+    "jip_tour": [
+      {
+        "id": 3,
+        "vk": "",
+        "instagram": "",
+        "youtube": "",
+        "web": "",
+        "name": "Тестовая база отдыха (Джип-Тур)",
+        "short_description": "",
+        "description": "",
+        "price": "2500р/сут",
+        "main_image": "relax_images/07a.jpg",
+        "screenshots": [
+          "relax_screenshots/58d.jpg"
+        ],
+        "phone": "88005553535",
+        "address": "Тестовый адрес (Джип-Тур)"
+      }
+    ],
+    "prokati": [
+      {
+        "id": 4,
+        "vk": "",
+        "instagram": "",
+        "youtube": "",
+        "web": "",
+        "name": "Тестовая база отдыха (Прокаты)",
+        "short_description": "",
+        "description": "",
+        "price": "2500р/сут",
+        "main_image": "relax_images/07a.jpg",
+        "screenshots": [
+          "relax_screenshots/58d.jpg"
+        ],
+        "phone": "88005553535",
+        "address": "Тестовый адрес (Прокаты)"
+      }
+    ],
+    "other": [
+      {
+        "id": 5,
+        "vk": "",
+        "instagram": "",
+        "youtube": "",
+        "web": "",
+        "name": "Тестовая база отдыха (Разное)",
+        "short_description": "",
+        "description": "",
+        "price": "2500р/сут",
+        "main_image": "relax_images/07a.jpg",
+        "screenshots": [
+          "relax_screenshots/58d.jpg"
+        ],
+        "phone": "88005553535",
+        "address": "Тестовый адрес (Разное)"
+      }
+    ]
+  }
+}
