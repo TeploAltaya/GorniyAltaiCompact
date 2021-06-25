@@ -4,18 +4,22 @@
     {
       "id": 1,
       "vk": "",
-      "instagram": "",
+      "instagram": "https://instagram.com/ayahotel?utm_medium=copy_link",
       "youtube": "",
       "web": "",
-      "name": "Достопримечательность 1",
-      "short_description": "Описание для теста достопримечательности",
-      "description": "",
-      "main_image": "sight_images/<название>.<png/jpg/jpeg>",
+      "name": "АлтАйская Ривьера",
+      "short_description": "Комплекс бассейнов АлтАйская Ривьера",
+      "description": "Это самый большой бассейный комплекс в России!
+Площадь бассейнов 3400 м2
+Система постоянной очистки воды
+Глубина бассейнов от 0,3 до 1,4 м",
+      "main_image": "sight_images/01s.jpg",
       "screenshots": [
         "sight_screenshots/<название>.<png/jpg/jpeg>"
       ],
-      "phone": "88005553535",
-      "address": "Допустим что знаем адрес"
+      "phone": "+7 (903) 919-5444",
+      "address": "659635, Алтайский край, Алтайский район, пос. Катунь,
+ул. Нагорная, д. 1"
     },
     {
       "id": 2,
