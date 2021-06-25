@@ -45,7 +45,8 @@
 
 Добро пожаловать!",
       "main_image": "sight_images/1s.jpg",
-      "screenshots": ["sight_screenshots/01s.jpg"],
+      "screenshots": ["sight_screenshots/01s.jpg", "sight_screenshots/8s.jpg", "sight_screenshots/9s.jpg", "sight_screenshots/10s.jpg", "sight_screenshots/11s.jpg", "sight_screenshots/12s.jpg", "sight_screenshots/13s.jpg", "sight_screenshots/14s.jpg", 
+"sight_screenshots/16s.jpg", "sight_screenshots/17s.jpg", "sight_screenshots/18s.jpg", "sight_screenshots/19s.jpg"],
       "phone": "+7 (903) 919-5444",
       "address": "659635, Алтайский край, Алтайский район, пос. Катунь,
 ул. Нагорная, д. 1"
