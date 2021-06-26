@@ -45,16 +45,16 @@
         "instagram": "",
         "youtube": "",
         "web": "",
-        "name": "Тестовая база отдыха (Сплавы)",
+        "name": "Тут может быть ваше объявление",
         "short_description": "",
         "description": "",
-        "price": "2500р/сут",
+        "price": "0р/сут",
         "main_image": "relax_images/07a.jpg",
         "screenshots": [
           "relax_screenshots/58d.jpg"
         ],
-        "phone": "88005553535",
-        "address": "Тестовый адрес (Сплавы)"
+        "phone": "",
+        "address": ""
       }
     ],
     "jip_tour": [
@@ -64,16 +64,14 @@
         "instagram": "",
         "youtube": "",
         "web": "",
-        "name": "Тестовая база отдыха (Джип-Тур)",
+        "name": "Тут может быть ваше объявление",
         "short_description": "",
         "description": "",
-        "price": "2500р/сут",
+        "price": "0р/сут",
         "main_image": "relax_images/07a.jpg",
-        "screenshots": [
-          "relax_screenshots/58d.jpg"
-        ],
-        "phone": "88005553535",
-        "address": "Тестовый адрес (Джип-Тур)"
+        "screenshots": ["relax_screenshots/58d.jpg"],
+        "phone": "",
+        "address": ""
       }
     ],
     "prokati": [
