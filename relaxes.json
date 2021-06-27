@@ -42,19 +42,20 @@
       {
         "id": 2,
         "vk": "",
-        "instagram": "",
+        "instagram": "https://instagram.com/splavaltai?utm_medium=copy_link",
         "youtube": "",
         "web": "",
-        "name": "Тут может быть ваше объявление",
-        "short_description": "",
-        "description": "",
-        "price": "0р/сут",
-        "main_image": "relax_images/07a.jpg",
-        "screenshots": [
-          "relax_screenshots/58d.jpg"
-        ],
-        "phone": "",
-        "address": ""
+        "name": "Altai splav",
+        "short_description": "Организация активного отдыха на Алтае",
+        "description": "Рафтинг, это самый популярный вид активного отдыха на Алтае! 
+Мы поможем подобрать отдых для Вас! 
+Сплав различной сложности: детский, экскурсионный или экстримальный. Любой продолжительностью от часа до нескольких дней. 
+А также поможем в организации экскурсии, тимбилдинга и  корпоратива!",
+        "price": "",
+        "main_image": "relax_images/03r.jpg",
+        "screenshots": ["relax_screenshots/11r.jpg", "relax_screenshots/12r.jpg", "relax_screenshots/13r.jpg", "relax_screenshots/14r.jpg", "relax_screenshots/15r.jpg", "relax_screenshots/16r.jpg"],
+        "phone": "89293499244",
+        "address": "Усть-сема, улица Дорожников 19а"
       }
     ],
     "jip_tour": [
