@@ -47,7 +47,43 @@
         "address": "посёлок Катунь ул.Катунская 15б"
       }
     ],
-    "souzga": [],
+    "souzga": [
+{
+        "id": 13,
+        "vk": "",
+        "instagram": "",
+        "youtube": "",
+        "web": "",
+        "name": "Коттедж",
+        "short_description": "Новый  котедж из дерева.",
+        "description": "Новый  котедж из дерева.
+На первом этаже холл с кухонной зоной, спальня, душевая и туалетная комнаты. 
+На втором этажи две спальни, туалетная комната. 
+Большие терассы для отдыха. 
+Баня, бассейн, мангальная зона, большие качели, парковка для 3х машин. 
+Стоимость бани первый час 800руб последующие 400руб. 
+Есть Вместимость 6чел. Стоимость 5000руб/ сут",
+        "price": "5000р/сут",
+        "main_image": "house_images/a12.jpg",
+        "screenshots": [
+          "house_screenshots/d117.jpg",
+          "house_screenshots/d118.jpg",
+          "house_screenshots/d119.jpg",
+          "house_screenshots/d120.jpg",
+          "house_screenshots/d121.jpg",
+          "house_screenshots/d122.jpg", 
+          "house_screenshots/d123.jpg", 
+          "house_screenshots/d124.jpg", 
+          "house_screenshots/d125.jpg", 
+          "house_screenshots/d126.jpg",
+          "house_screenshots/d127.jpg", 
+          "house_screenshots/d128.jpg",
+          "house_screenshots/d129.jpg"
+        ],
+        "phone": "+7 961 992 64 34",
+        "address": "с.Соузга, пер.Речной,5."
+      }
+],
     "turbase_unost": [],
     "nijnekayancha": [
       {
