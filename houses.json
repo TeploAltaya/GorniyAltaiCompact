@@ -349,7 +349,50 @@
         "address": "Республика Алтай, Чемальский район, село Чепош, Чемальский тракт 11"
       }
     ],
-    "uzneya": [],
+    "uzneya": [
+{
+        "id": 17,
+        "vk": "",
+        "instagram": "",
+        "youtube": "",
+        "web": "",
+        "name": "Ирбис",
+        "short_description": "Национальное жильё в живописном месте (Аил)",
+        "description": "Аил расположен в с.Узнезя у подножия горы Селигур, 100 м от р.Катунь, 30 м от р. Узнезя.
+-4 спальных места(двуспальная кровать и диван),
+-кухонный уголок,
+-душ, туалет,
+-телевизор, холодильник, микроволновая печь, плитка, чайник, посуда,
+-национальный декор,
+-баня, беседка, мангал,кострище, шезлонг,
+-бассейн, батут, бадминтон
+Просторная территория без соседей.
+
+При 2-ух местном размещении - 2000 рублей/сутки, 
+при 3-4-ёх местном - 3000 рублей/сутки.",
+        "price": "2000р/сут",
+        "main_image": "house_images/17a.jpg",
+        "screenshots": [
+          "house_screenshots/216d.jpg",
+          "house_screenshots/217d.jpg",
+          "house_screenshots/218d.jpg",
+          "house_screenshots/219d.jpg",
+          "house_screenshots/220d.jpg",
+          "house_screenshots/221d.jpg",
+          "house_screenshots/222d.jpg",
+          "house_screenshots/223d.jpg",
+          "house_screenshots/224d.jpg",
+          "house_screenshots/225d.jpg",
+          "house_screenshots/226d.jpg",
+          "house_screenshots/227d.jpg",
+          "house_screenshots/228d.jpg",
+          "house_screenshots/229d.jpg",
+          "house_screenshots/230d.jpg"
+        ],
+        "phone": "+7 983 355 1619"
+        "address":"Чемальский район село Узнезя, ул. Центральная 2"
+      }
+],
     "anos": [
 {
         "id": 16,
