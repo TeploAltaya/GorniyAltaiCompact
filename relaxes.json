@@ -195,6 +195,21 @@ Volkswagen Tiguan (aвтомaт) 2021 гв. 14000 сутки.
         "screenshots": ["relax_screenshots/24r.jpg", "relax_screenshots/25r.jpg" ],
         "phone": "89236128691",
         "address": "с. Чемал"
+      },
+{
+        "id": 6,
+        "vk": "",
+        "instagram": "https://instagram.com/altai_caravan_club?utm_medium=copy_link",
+        "youtube": "",
+        "web": "",
+        "name": "Аренда Каравана",
+        "short_description": "Ваше незабываемое путешествие!",
+        "description": "",
+        "price": " от 3000р",
+        "main_image": "relax_images/09a.jpg",
+        "screenshots": ["relax_screenshots/26r.jpg"],
+        "phone": "+7 913 252-09-98",
+        "address": "Алтайский край г. Барнаул"
       }
     ],
     "other": []
