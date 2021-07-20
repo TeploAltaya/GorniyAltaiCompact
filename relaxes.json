@@ -1,7 +1,7 @@
 {
   "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
   "relaxes": {
-    "excursia": [
+    "excursia_and_jip_tours": [
 {
       "id": 10,
       "vk": "",
@@ -144,7 +144,7 @@ Bы можетe забрoниpoвaть автoмобиль ЗИЛ-131 и УАЗ
         "address": "с. Чемал ул. Партизанская 6"
       }
     ],
-    "splavi": [
+    "splavi_rafting": [
       {
         "id": 2,
         "vk": "",
@@ -164,7 +164,7 @@ Bы можетe забрoниpoвaть автoмобиль ЗИЛ-131 и УАЗ
         "address": "Усть-сема, улица Дорожников 19а"
       }
     ],
-    "jip_tour": [
+    "horse_going_and_excursia": [
       {
         "id": 3,
         "vk": "",
@@ -181,7 +181,7 @@ Bы можетe забрoниpoвaть автoмобиль ЗИЛ-131 и УАЗ
         "address": ""
       }
     ],
-    "prokati": [
+    "prokati_arenda_transfer": [
    {
         "id": 11,
         "vk": "",
@@ -337,6 +337,6 @@ Volkswagen Tiguan (aвтомaт) 2021 гв. 14000 сутки.
         "address": "Алтайский край г. Барнаул"
       }
     ],
-    "other": []
+    "made_in_altay": []
   }
 }
