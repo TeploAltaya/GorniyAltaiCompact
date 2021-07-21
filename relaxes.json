@@ -165,24 +165,7 @@ Bы можетe забрoниpoвaть автoмобиль ЗИЛ-131 и УАЗ
       }
     ],
     "horse_going_and_excursia": [
-      {
-        "id": 3,
-        "vk": "",
-        "instagram": "",
-        "youtube": "",
-        "web": "",
-        "name": "🤔Тут может быть ваше объявление",
-        "short_description": "",
-        "description": "",
-        "price": "",
-        "main_image": "relax_images/07a.jpg",
-        "screenshots": ["relax_screenshots/58d.jpg"],
-        "phone": "",
-        "address": ""
-      }
-    ],
-    "prokati_arenda_transfer": [
-   {
+    {
         "id": 11,
         "vk": "",
         "instagram": "https://instagram.com/aigyr04?utm_medium=copy_link",
@@ -257,7 +240,9 @@ Bы можетe забрoниpoвaть автoмобиль ЗИЛ-131 и УАЗ
 ],
         "phone": "8 983 582 5659",
         "address": "с. Чемал"
-      },  
+      }
+    ],
+    "prokati_arenda_transfer": [  
  {
         "id": 4,
         "vk": "",
