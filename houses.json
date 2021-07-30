@@ -667,6 +667,32 @@
         ],
         "phone": "89236643236",
         "address": "П. Дубровка ул. Сафронова 79 А."
+      },
+{
+        "id": 19,
+        "vk": "",
+        "instagram": "https://instagram.com/domiki_na_katuni?utm_medium=copy_link",
+        "youtube": "",
+        "web": "",
+        "name": "Домики на Катуни",
+        "short_description": "Одых на берегу Катуни",
+        "description": "Огороженная территория на две семьи. 
+Мангал, баня, летний душ, скважина с родниковой водой, столик у воды для чаепитий. Холодильник, плита, утюг, чайник, машинка автомат. Очень тихо и зелено.
+Принимаем с животными.
+Возможность размещения компании до 10 человек. 
+Баня 500р с домика, топите сами.",
+        "price": "от 500р/место",
+        "main_image": "house_images/19a.jpg",
+        "screenshots": [
+          "house_screenshots/248d.jpg",
+          "house_screenshots/249d.jpg",
+          "house_screenshots/250d.jpg",
+          "house_screenshots/251d.jpg",
+          "house_screenshots/252d.jpg",
+          "house_screenshots/253d.jpg"
+      ],
+        "phone": "89607785032",
+        "address": "п. Дубровка "
       }
     ],
     "iogach": [],
