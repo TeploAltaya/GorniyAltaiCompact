@@ -243,6 +243,48 @@ Bы можетe забрoниpoвaть автoмобиль ЗИЛ-131 и УАЗ
     ],
     "prokati_arenda_transfer": [  
 {
+        "id": 15,
+        "vk": "",
+        "instagram": "https://instagram.com/_svetlana_8187?utm_medium=copy_link",
+        "youtube": "",
+        "web": "",
+        "name": "Трансфер по Алтаю",
+        "short_description": "Услуги трансфера по Алтаю",
+        "description": "Заказ  микроавтобуса  Ниссан Серена 
+
+На  5 - 6  человек. 
+
+Город - межгород. 
+
+Бийск, Барнаул, Новосибирск,  Белокуриха. 
+
+Встреча  в аэропортах, доставка до мест отдыха. 
+
+Трансфер в  Кош - Агач. 
+
+Экскурсии: Чемал, Манжерок, Ороктойский мост, 
+
+Чуйский  тракт,  Гейзеровое озеро.",
+        "price": "",
+        "main_image": "relax_images/15a.jpg",
+        "screenshots": [
+"relax_screenshots/332r.jpg",
+"relax_screenshots/333r.jpg",
+"relax_screenshots/334r.jpg",
+"relax_screenshots/335r.jpg",
+"relax_screenshots/336r.jpg",
+"relax_screenshots/337r.jpg",
+"relax_screenshots/338r.jpg",
+"relax_screenshots/339r.jpg",
+"relax_screenshots/340r.jpg",
+"relax_screenshots/341r.jpg",
+"relax_screenshots/342r.jpg",
+"relax_screenshots/343r.jpg"
+],
+        "phone": "8 960 940 35 45",
+        "address": "Алтайский край г. Бийск"
+      },
+{
         "id": 12,
         "vk": "",
         "instagram": "https://instagram.com/altaienduro?utm_medium=copy_link",
