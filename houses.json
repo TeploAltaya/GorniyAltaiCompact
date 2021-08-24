@@ -475,7 +475,38 @@
 ],
     "elecmonar": [],
     "chemal": [
-      {
+     {
+        "id": 22,
+        "vk": "",
+        "instagram": "https://instagram.com/domiki_v_chemale?utm_medium=copy_link",
+        "youtube": "",
+        "web": "",
+        "name": "Гостевой дом Вишня",
+        "short_description": "Семейный отдых в Чемале.",
+        "description": "
+Гостевой дом - Вишня находится в тихом месте  с панорамным видом на горы.
+Домик благоустроенный, уютный со всем необходимым для комфортного проживания.
+Домик на двоих имеет 2-х спальную кровать, кресло, стол, стулья, холодильник, микроволновку, чайник, посуду, раковину. В домике есть удобства туалет, душ, раковина, горячая и холодная вода.
+Для гостей на территорий есть мангальная зона.
+
+Домик на 4-рых имеет 2-х спальную кровать, диван, стол, стулья, чайник, посуду. Удобства в домике. Цена 3800.",
+        "price": "от 2800р/сут",
+        "main_image": "house_images/22a.jpg",
+        "screenshots": [
+          "house_screenshots/281d.jpg",
+          "house_screenshots/276d.jpg",
+          "house_screenshots/277d.jpg",
+          "house_screenshots/273d.jpg",
+          "house_screenshots/278d.jpg",
+          "house_screenshots/279d.jpg",
+          "house_screenshots/280d.jpg",
+          "house_screenshots/274d.jpg",
+          "house_screenshots/275d.jpg"
+           ],
+        "phone": "89139964207",
+        "address": "Чемал ул.Восточная 23"
+      },
+ {
         "id": 3,
         "vk": "",
         "instagram": "",
