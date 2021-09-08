@@ -166,6 +166,60 @@
       }
     ],
     "manjerok": [
+      {
+        "id": 26,
+        "vk": "",
+        "instagram": "https://instagram.com/altay_soul_house?utm_medium=copy_link",
+        "youtube": "",
+        "web": "",
+        "name": "Коттедж Жемчужина",
+        "short_description":"Семейный отдых в Горном Алтае",
+        "description": "Уютный дом, вместимость до 13 человек. 
+Комфортное размещение 8-10 человек. 
+Гостиная, кухонная зона, 4 спальни, 3 санузла. 
+В спальнях - двухместные кровати, тумбочки, ТВ, мини-холодильник, напольная вешалка. 
+В гостиной два дивана-кровати, ТВ, кухонная зона -шкафы, два обеденных стола, техника, плита, посуда. 
+1 комната отдыха для утренней зарядки, гимнастики, чтения. 
+В доме тёплые полы, есть Wi-Fi. Гостям предоставляются полотенца, гигиенические принадлежности. 
+Цена: до 10 человек -15000 р. /сутки, до 13 человек-18000 р. /сутки. Новогоднии дни -18000/сутки независимо от количества человек. 
+
+Правила: заезд с 15.00,выезд до 11, по договорённости. 
+В доме нельзя курить, проводить мальчишники/ девичники, для спокойного семейного отдыха, не размещаем питомцев. 
+Предусмотрено предоплата и страховой залог. 
+На территории - баня, парковка, беседка, летом - бассейн. 
+Услуги бани оплачиваются отдельно.",
+        "price": "от 15000р/сут.",
+        "main_image": "house_images/26a.jpg",
+        "screenshots": [
+          "house_screenshots/342d.jpg",
+          "house_screenshots/343d.jpg",
+          "house_screenshots/344d.jpg",
+          "house_screenshots/345d.jpg",
+          "house_screenshots/346d.jpg",
+          "house_screenshots/347d.jpg",
+          "house_screenshots/348d.jpg",
+          "house_screenshots/349d.jpg",
+          "house_screenshots/350d.jpg",
+          "house_screenshots/351d.jpg",
+          "house_screenshots/352d.jpg",
+          "house_screenshots/353d.jpg",
+          "house_screenshots/354d.jpg",
+          "house_screenshots/355d.jpg",
+          "house_screenshots/356d.jpg",
+          "house_screenshots/357d.jpg",
+          "house_screenshots/358d.jpg",
+          "house_screenshots/359d.jpg",
+          "house_screenshots/360d.jpg",
+          "house_screenshots/361d.jpg",
+          "house_screenshots/362d.jpg",
+          "house_screenshots/363d.jpg",
+          "house_screenshots/364d.jpg",
+          "house_screenshots/365d.jpg",
+          "house_screenshots/366d.jpg"
+        ],
+        "phone": "+7 913 692-74-41",
+        "address": "с.Озерное Майминского района."
+      },
 {
         "id": 25,
         "vk": "",
