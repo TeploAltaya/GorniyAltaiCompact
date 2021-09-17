@@ -896,7 +896,79 @@ NEO юрты:
     "cherga": [],
     "miuta": [],
     "ongudai": [],
-    "aktash": [],
+    "aktash": [
+{
+        "id": 27,
+        "vk": "",
+        "instagram": "https://instagram.com/xanaltai?utm_medium=copy_link",
+        "youtube": "",
+        "web": "",
+        "name": "Хан Алтай",
+        "short_description": "ЭКО Туркомплекс Хан Алтай",
+        "description": "Тёплые домики расположеные в самом удобном месте для отдыха.
+В пяти минутах езды Гейзеровое озеро.
+Также рядом Марс-1 и Марс-2
+Акташский ретранслятор.
+Перевал Кату-Ярык и многое другое.
+Завараживающий вид из панорамных окон.
+В домиках есть микроволновка, холодильник, чайник,  туалет, душ.
+Предоставляется постельное бельё, полотенца, тапочки, шампунь, мыло.
+На территории есть замечательная детская площадка, мангалы.
+Есть большая, жаркая банька.
+Баный чан для купания и парения  с Алтайскими травами на свежем воздухе!",
+        "price": "от 4000р/сут",
+        "main_image": "house_images/27a.jpg",
+        "screenshots": [
+          "house_screenshots/367d.jpg",
+          "house_screenshots/368d.jpg",
+          "house_screenshots/369d.jpg",
+          "house_screenshots/370d.jpg",
+          "house_screenshots/371d.jpg",
+          "house_screenshots/372d.jpg", 
+          "house_screenshots/373d.jpg", 
+          "house_screenshots/374d.jpg", 
+          "house_screenshots/375d.jpg", 
+          "house_screenshots/376d.jpg",
+          "house_screenshots/377d.jpg", 
+          "house_screenshots/378d.jpg",
+          "house_screenshots/379d.jpg",
+          "house_screenshots/380d.jpg",
+          "house_screenshots/381d.jpg",
+          "house_screenshots/382d.jpg",
+          "house_screenshots/383d.jpg",
+          "house_screenshots/384d.jpg",
+          "house_screenshots/385d.jpg", 
+          "house_screenshots/386d.jpg", 
+          "house_screenshots/387d.jpg", 
+          "house_screenshots/388d.jpg", 
+          "house_screenshots/389d.jpg",
+          "house_screenshots/390d.jpg", 
+          "house_screenshots/391d.jpg",
+          "house_screenshots/392d.jpg",
+          "house_screenshots/393d.jpg",
+          "house_screenshots/394d.jpg",
+          "house_screenshots/395d.jpg",
+          "house_screenshots/396d.jpg",
+          "house_screenshots/397d.jpg",
+          "house_screenshots/398d.jpg", 
+          "house_screenshots/399d.jpg", 
+          "house_screenshots/400d.jpg", 
+          "house_screenshots/401d.jpg", 
+          "house_screenshots/402d.jpg",
+          "house_screenshots/403d.jpg", 
+          "house_screenshots/404d.jpg",
+          "house_screenshots/405d.jpg",
+          "house_screenshots/406d.jpg", 
+          "house_screenshots/407d.jpg", 
+          "house_screenshots/408d.jpg",
+          "house_screenshots/409d.jpg", 
+          "house_screenshots/410d.jpg",
+          "house_screenshots/411d.jpg"
+        ],
+        "phone": "8 913 692 65 53",
+        "address": "с. Акташ ул Депутатская 33"
+      }
+],
     "kurgai": [],
     "barangol": [
       {
