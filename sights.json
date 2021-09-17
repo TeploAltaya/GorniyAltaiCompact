@@ -1,7 +1,47 @@
 {
   "main": "https://raw.githubusercontent.com/TeploAltaya/GorniyAltaiCompact/main/",
   "sights": [
-    {
+ {
+      "id": 6,
+      "vk": "",
+      "instagram":"",
+      "youtube": "",
+      "web": "",
+      "name": "Гейзерное озеро",
+      "short_description": "",
+      "description": "Озеро в Улаганском районе Республики Алтай. 
+Находится в 6 километрах от посёлка Акташ у подножья Северо-Чуйского Хребта. 
+Высота над уровнем моря — 1370 м.
+До озера через болото идёт деревянная тропа.
+По пути можно встретить фигурки из дерева.
+Вход к озеру платный.",
+      "main_image": "sight_images/06s.jpg",
+      "screenshots": ["sight_screenshots/32s.jpg", 
+"sight_screenshots/154s.jpg", 
+"sight_screenshots/155s.jpg", 
+"sight_screenshots/156s.jpg", 
+"sight_screenshots/157s.jpg", 
+"sight_screenshots/158s.jpg", 
+"sight_screenshots/159s.jpg",
+"sight_screenshots/160s.jpg", 
+"sight_screenshots/161s.jpg", 
+"sight_screenshots/162s.jpg", 
+"sight_screenshots/163s.jpg", 
+"sight_screenshots/164s.jpg", 
+"sight_screenshots/165s.jpg",
+"sight_screenshots/166s.jpg",
+"sight_screenshots/167s.jpg", 
+"sight_screenshots/168s.jpg", 
+"sight_screenshots/169s.jpg", 
+"sight_screenshots/170s.jpg", 
+"sight_screenshots/171s.jpg", 
+"sight_screenshots/172s.jpg",
+"sight_screenshots/173s.jpg"
+],
+      "phone": "",
+      "address": "Республика Алтай, 6км от села Акташ "
+    }, 
+  {
       "id": 1,
       "vk": "",
       "instagram": "https://instagram.com/altai_riviera?utm_medium=copy_link",
