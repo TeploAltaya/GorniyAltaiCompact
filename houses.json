@@ -895,7 +895,46 @@ NEO юрты:
     ],
     "cherga": [],
     "miuta": [],
-    "ongudai": [],
+    "ongudai": [
+{
+        "id": 28,
+        "vk": "",
+        "instagram": "https://instagram.com/onguday_eko_village?utm_medium=copy_link",
+        "youtube": "https://youtube.com/shorts/RdPmGIkxRpM?feature=share",
+        "web": "",
+        "name": "Ongudai_Eko_Villagi",
+        "short_description": "База отдыха в которой хочетсяостаться",
+        "description": "Уютные домики на берегу реки Урсул.
+Новая база отдыха Ongudai_Eko_Villagi
+расположилась в сказочно красивом месте. 
+Домики с панорамным видом на горы,  шум реки, неповторимые расветы, огромная территория.
+Домики полностью благоустроенные, есть душ, туалет, горячая вода, в каждом домике, чайник, холодильник, обогреватель.
+У каждого домика есть мангал.",
+        "price": "",
+        "main_image": "house_images/28a.jpg",
+        "screenshots": [
+          "house_screenshots/412d.jpg",
+          "house_screenshots/413d.jpg",
+          "house_screenshots/414d.jpg",
+          "house_screenshots/415d.jpg",
+          "house_screenshots/416d.jpg",
+          "house_screenshots/417d.jpg", 
+          "house_screenshots/418d.jpg", 
+          "house_screenshots/419d.jpg", 
+          "house_screenshots/420d.jpg", 
+          "house_screenshots/421d.jpg",
+          "house_screenshots/422d.jpg", 
+          "house_screenshots/423d.jpg",
+          "house_screenshots/424d.jpg",
+          "house_screenshots/425d.jpg",
+          "house_screenshots/426d.jpg",
+          "house_screenshots/427d.jpg",
+          "house_screenshots/428d.jpg"   
+       ],
+        "phone": "8 913 991 93 99",
+        "address": "с. Онгудай"
+      }
+],
     "aktash": [
 {
         "id": 27,
