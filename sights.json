@@ -60,7 +60,34 @@
       "address": "659635, Алтайский край, Алтайский район, пос. Катунь,
 ул. Нагорная, д. 1"
     },
-    {
+ {
+      "id": 7,
+      "vk": "",
+      "instagram":"",
+      "youtube": "",
+      "web": "",
+      "name": "Марс -1",
+      "short_description": "Собственный Марс в Алтае",
+      "description": "Каждый из нас наверное хотел бы побывать на Марсе.
+Но не каждый знает, что Марс ближе к нам чем кажется.
+Погулять по Марсу и насладиться экзотическими видами вы сможете в Горном Алтае.
+От с.Акташ в сторону с.Кош-Агач примерно 80км. Из них 5-7км, по гравийной дороги.
+Проезд к Марс - 1 платный, на территории есть небольшое кафе.",
+      "main_image": "sight_images/07s.jpg",
+      "screenshots": [
+"sight_screenshots/176s.jpg",
+"sight_screenshots/177s.jpg", 
+"sight_screenshots/178s.jpg", 
+"sight_screenshots/179s.jpg", 
+"sight_screenshots/180s.jpg", 
+"sight_screenshots/181s.jpg",
+"sight_screenshots/182s.jpg", 
+"sight_screenshots/183s.jpg"
+], 
+      "phone": "",
+      "address": "Республика Алтай, ~ 80км от с.Акташ, 6км ~ 7км от Чуйского тракта."
+    }, 
+   {
       "id": 2,
       "vk": "https://m.vk.com/aya_hotel",
       "instagram": "https://instagram.com/ayahotel?utm_medium=copy_link",
