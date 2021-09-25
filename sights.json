@@ -118,6 +118,42 @@
 ул. Нагорная, д. 1"
     },
 {
+      "id": 8,
+      "vk": "",
+      "instagram":"",
+      "youtube": "",
+      "web": "",
+      "name": "Перевал Кату-Ярык",
+      "short_description": "",
+      "description": " Перевал в Алтайских горах, на территории Улаганского района Республики Алтай.
+Представляет собой крутой спуск в долину реки Чулышман.
+Проложен он в склоне горы. 
+Крутизна склона ~70% (35°). 
+Высота от подножия — 892 м, длина — 3,9 км. 
+9 поворотов, средний уклон — 18% (10°). 
+Покрытие — грунт, камни. 
+Перевал проходим для транспорта высокой проходимости. 
+Высота у подножия — 670 м над уровнем моря, смотровой площадки — 1200 м.",
+      "main_image": "sight_images/08s.jpg",
+      "screenshots": [
+"sight_screenshots/186s.jpg",
+"sight_screenshots/187s.jpg", 
+"sight_screenshots/188s.jpg", 
+"sight_screenshots/189s.jpg", 
+"sight_screenshots/190s.jpg", 
+"sight_screenshots/191s.jpg",
+"sight_screenshots/192s.jpg", 
+"sight_screenshots/193s.jpg", 
+"sight_screenshots/194s.jpg", 
+"sight_screenshots/195s.jpg", 
+"sight_screenshots/196s.jpg", 
+"sight_screenshots/197s.jpg",
+"sight_screenshots/198s.jpg"
+],
+      "phone": "",
+      "address": "Республика Алтай, ~98км от села Акташ "
+    }, 
+{
       "id": 3,
       "vk": "",
       "instagram": "https://instagram.com/fluffy_farm04?utm_medium=copy_link",
