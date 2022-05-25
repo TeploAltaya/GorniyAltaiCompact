@@ -165,11 +165,11 @@ Bы можетe забрoниpoвaть автoмобиль ЗИЛ-131 и УАЗ
       },
 {
         "id": 222,
-        "vk": "https://vk.link/rafting.altay",
+        "vk": "",
         "instagram": "https://instagram.com/rafting_altay?igshid=YmMyMTA2M2Y=",
         "youtube": "",
         "web": "",
-        "name": "Рафтинг Алтай",
+        "name": "Рафтинг Алтай ",
         "short_description": "Добрый день!
 Наша база отдыха Корона Катуни и компания Рафтинг Алтай находятся по адресу- Республика Алтай, Майминский район, п. Барангол, ул. Чуйская, 6.
 Месторасположение в живописном месте на берегу р. Катунь с собственным песчаным пляжем, с большой зелёной территорией. 
@@ -182,16 +182,14 @@ Bы можетe забрoниpoвaть автoмобиль ЗИЛ-131 и УАЗ
 Ватсап, телеграм, ВК, инстаграм.",
         "price": "",
         "main_image": "relax_images/32d.jpg",
-        "screenshots": [
-"relax_screenshots/402r.jpg",
+        "screenshots": [relax_screenshots/402r.jpg",
 "relax_screenshots/403r.jpg",
 "relax_screenshots/404r.jpg",
 "relax_screenshots/405r.jpg",
 "relax_screenshots/406r.jpg",
 "relax_screenshots/407r.jpg",
 "relax_screenshots/408r.jpg",
-"relax_screenshots/409r.jpg"
-],
+"relax_screenshots/409r.jpg"],
         "phone": "8-913-991-68-71",
         "address": "Республика Алтай, Майминский район, п. Барангол, ул. Чуйская, 6"
       }
