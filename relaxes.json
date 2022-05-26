@@ -166,20 +166,26 @@ Bы можетe забрoниpoвaть автoмобиль ЗИЛ-131 и УАЗ
 {
         "id": 77,
         "vk": "",
-        "instagram": "https://instagram.com/splavaltai?utm_medium=copy_link",
+        "instagram": "",
         "youtube": "",
         "web": "",
-        "name": "Altai splav",
-        "short_description": "Организация активного отдыха на Алтае",
-        "description": "Рафтинг, это самый популярный вид активного отдыха на Алтае! 
-Мы поможем подобрать отдых для Вас! 
-Сплав различной сложности: детский, экскурсионный или экстримальный. Любой продолжительностью от часа до нескольких дней. 
-А также поможем в организации экскурсии, тимбилдинга и  корпоратива!",
+        "name": "Рафтинг Алтай",
+        "short_description": "",
+        "description": "",
         "price": "",
         "main_image": "relax_images/32d.jpg",
-        "screenshots": ["relax_screenshots/11r.jpg", "relax_screenshots/12r.jpg", "relax_screenshots/13r.jpg", "relax_screenshots/14r.jpg", "relax_screenshots/15r.jpg", "relax_screenshots/16r.jpg"],
-        "phone": "89293499244",
-        "address": "Усть-сема улица Дорожников 19а"
+        "screenshots": [
+ "relax_screenshots/402r.jpg",
+ "relax_screenshots/403r.jpg",
+ "relax_screenshots/404r.jpg",
+ "relax_screenshots/405r.jpg",
+ "relax_screenshots/406r.jpg",
+ "relax_screenshots/407r.jpg",
+ "relax_screenshots/408r.jpg",
+ "relax_screenshots/409r.jpg",
+],
+        "phone": "8-913-991-68-71",
+        "address": ""
       }
     ],
     "horse_going_and_excursia": [
